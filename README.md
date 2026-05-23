@@ -37,7 +37,7 @@ L'application suit scrupuleusement les recommandations architecturales de Google
 ## ⚙️ Installation
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-compte/RoomMVVMDemo.git
+   git clone https://github.com/Sultan-zd/Lab19-RoomMVVMDemo.git
    ```
 2. Ouvrir le projet dans **Android Studio**.
 3. Synchroniser les fichiers **Gradle**.
